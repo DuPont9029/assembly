@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CS Meetings & Points",
+  title: "Richiesta assemblee Comitato Studentesco",
   description: "Student Council Points Management System",
 };
 
